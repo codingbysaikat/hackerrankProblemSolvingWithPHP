@@ -1,4 +1,4 @@
-<!-- Complete the function solveMeFirst to compute the sum of two integers.
+Complete the function solveMeFirst to compute the sum of two integers.
 
 Example
 a =7;
@@ -20,12 +20,4 @@ Sample Input:
 a = 2;
 b = 3;
 Sample Output:
-5; -->
-<?php
-
-function solveMeFirst($a,$b){
-$c=$a+$b;
-return $c;
-}
-echo solveMeFirst(100,1000);
-?>
+5;
